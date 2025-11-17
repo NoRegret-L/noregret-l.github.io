@@ -25,8 +25,8 @@ footer:
 
 # Author 配置博主信息
 author: '🧩'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
+# nickname: '悟空'
+bio: '太原理工大学\n计算机在读研究生，热爱技术&设计，简单乐观爱创造'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -48,7 +48,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
@@ -56,10 +56,10 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  # weibo: '//weibo.com/lovecolcol'
+  # juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
+  # instagram: '//www.instagram.com/steveliaocn'
+  github: '//github.com/NoRegret-L'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
