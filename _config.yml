@@ -26,7 +26,7 @@ footer:
 # Author 配置博主信息
 author: '🧩'
 # nickname: '悟空'
-bio: '太原理工大学\n计算机在读研究生，热爱技术&设计，简单乐观爱创造'
+bio: '太原理工大学计算机<br>在读研究生，热爱技术&设计，简单乐观爱创造'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -48,7 +48,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'pink'  # pink or default
+theme-color: 'default'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
